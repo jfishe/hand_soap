@@ -3,8 +3,15 @@ title: README
 subtitle: Homemade Foaming Handsoap Recipe
 author: John D. Fisher
 email: jdfenw@gmail.com
-version: 1.0
+version: 1.2
 ---
+
+<!--
+# Convert markdown to html using pandoc
+pandoc  --from="markdown+grid_tables" --to="html" --output="README.html" \
+  --standalone --template="pandoc.html5" --toc --highlight-style="breezedark" \
+  --css="pandoc.css" "README.md"
+-->
 
 ## Homemade Foaming Hand Soap Recipe
 
@@ -29,22 +36,24 @@ The following recipe assumes a 12 ounce bottle and equal amounts of glycerin and
 oil (almond and fractionated coconut oil both work nicely). The raw amounts are
 converted to milliliters and scaled for a 7 ounce (207 ml) bottle. Milliliters
 are convenient because, for liquids similar to water, grams and milliliters are
-the same. I have a gram scale but do not having measuring spoons for the odd
-fractions of a teaspoon the recipe calls for. Measuring by weight is easier
-anyway.
+the close to the same. I have a gram scale but do not have measuring spoons for
+the odd fractions of a teaspoon the recipe calls for. Measuring by weight is
+easier anyway.
 
 ### Ingredients
 
-| Ingredients              |  Raw Amt | Raw Units |  Amount | Scaled Vol |
-|--------------------------|---------:|----------:|--------:|-----------:|
-| Water                    |     10.7 |        oz |     315 |        184 |
-| Soap                     |        2 |       tbs |      30 |         17 |
-| Fractionated Coconut Oil |        1 |       tsp |       5 |          3 |
-| Glycerin                 |        1 |       tsp |       5 |          3 |
-| **Total**                | **12.0** |    **oz** | **355** |    **207** |
-| *Units*                  |          |           |    *ml* |       *ml* |
+<!-- markdownlint-disable MD013 -->
+| Ingredients              |  Raw Amt | Raw Units |  Amount | Scaled Vol | Density | Scaled Mass |
+|--------------------------|---------:|----------:|--------:|-----------:|--------:|------------:|
+| Water                    |     10.7 |        oz |     315 |        184 |    1.00 |         184 |
+| Soap                     |        2 |       tbs |      30 |         17 |    1.01 |          17 |
+| Fractionated Coconut Oil |        1 |       tsp |       5 |          3 |    0.96 |           3 |
+| Glycerin                 |        1 |       tsp |       5 |          3 |    1.25 |           4 |
+| **Total**                | **12.0** |    **oz** | **355** |    **207** |         |     **208** |
+| *Units*                  |          |           |    *ml* |       *ml* |  *g/ml* |         *g* |
 
 Table: Hand Soap Ingredients Scaled for 7 ounces (207 ml)
+<!-- markdownlint-enable MD013 -->
 
 Thirty (30) drops of essential oil, per 7 ounces of soap, works nicely for
 strong fragrances, like
@@ -56,7 +65,7 @@ from Young Living.
 1. Measure water, oil and glycerin.
 2. Add to foaming hand soap bottle and shake to blend.
 3. Measure and add soap to foaming hand soap bottle.
-4. Add 30 drops of essential oil foaming hand soap bottle.
+4. Add 30 drops of essential oil to foaming hand soap bottle.
 5. Put the pump/cap on the bottle and gently rotate to mix soap without
    generating suds.
 
