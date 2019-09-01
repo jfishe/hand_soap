@@ -3,6 +3,7 @@ title: README
 subtitle: Homemade Foaming Handsoap Recipe
 author: John D. Fisher
 email: jdfenw@gmail.com
+version: 1.0
 ---
 
 ## Homemade Foaming Hand Soap Recipe
