@@ -32,13 +32,20 @@ both glycerin and oil, generates a smooth feeling soap which is also
 shelf-stable--i.e., the oil and essential oils are less likely to break down
 over the course of a month at room temperature.
 
-The following recipe assumes a 12 ounce bottle and equal amounts of glycerin and
-oil (almond and fractionated coconut oil both work nicely). The raw amounts are
+The following recipe assumes a 12 ounce bottle and equal amounts of glycerin
+and oil (almond and fractionated coconut oil
+,summer[^fractionated_coconut_oil], both work nicely). The raw amounts are
 converted to milliliters and scaled for a 7 ounce (207 ml) bottle. Milliliters
-are convenient because, for liquids similar to water, grams and milliliters are
-the close to the same. I have a gram scale but do not have measuring spoons for
+are convenient because, for liquids similar to water, grams and milliliters
+are the close to the same. I have a gram scale but do not have measuring
+spoons for
 the odd fractions of a teaspoon the recipe calls for. Measuring by weight is
 easier anyway.
+
+[^fractionated_coconut_oil]: Fractionated coconut oil may solidify at cooler temperatures: Under our
+  kitchen sink (exterior wall), the bottle solidified well above the freezing
+  temperature. We've relocated it to the bathroom vanity to see if it melts.
+  It's probably best to use almond oil in the winter.
 
 ### Ingredients
 
