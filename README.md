@@ -3,7 +3,7 @@ title: README
 subtitle: Homemade Foaming Handsoap Recipe
 author: John D. Fisher
 email: jdfenw@gmail.com
-version: 1.2
+version: 1.3
 ---
 
 <!--
@@ -32,7 +32,7 @@ both glycerin and oil, generates a smooth feeling soap which is also
 shelf-stable--i.e., the oil and essential oils are less likely to break down
 over the course of a month at room temperature.
 
-The following recipe assumes a 12 ounce bottle and equal amounts of glycerin
+The original recipe assumed a 12 ounce bottle and equal amounts of glycerin
 and oil (almond and fractionated coconut oil
 ,summer[^fractionated_coconut_oil], both work nicely). The raw amounts are
 converted to milliliters and scaled for a 7 ounce (207 ml) bottle. Milliliters
@@ -42,7 +42,14 @@ spoons for
 the odd fractions of a teaspoon the recipe calls for. Measuring by weight is
 easier anyway.
 
-[^fractionated_coconut_oil]: Fractionated coconut oil may solidify at cooler temperatures: Under our
+After regular use, we discovered the soap tends to dry our hands. Increasing
+the amount of oil from 3 to 6 g, solved the problem. So the revised recipe
+increases the amount of oil and reduces the water by the same amount to
+maintain the total at 12 oz and hit the target mass of 6 g in the 7 oz bottle.
+
+[^fractionated_coconut_oil]:
+
+  Fractionated coconut oil may solidify at cooler temperatures: Under our
   kitchen sink (exterior wall), the bottle solidified well above the freezing
   temperature. We've relocated it to the bathroom vanity to see if it melts.
   It's probably best to use almond oil in the winter.
@@ -50,16 +57,18 @@ easier anyway.
 ### Ingredients
 
 <!-- markdownlint-disable MD013 -->
+
 | Ingredients              |  Raw Amt | Raw Units |  Amount | Scaled Vol | Density | Scaled Mass |
-|--------------------------|---------:|----------:|--------:|-----------:|--------:|------------:|
-| Water                    |     10.7 |        oz |     315 |        184 |    1.00 |         184 |
-| Soap                     |        2 |       tbs |      30 |         17 |    1.01 |          17 |
-| Fractionated Coconut Oil |        1 |       tsp |       5 |          3 |    0.96 |           3 |
-| Glycerin                 |        1 |       tsp |       5 |          3 |    1.25 |           4 |
+| ------------------------ | -------: | --------: | ------: | ---------: | ------: | ----------: |
+| Water                    |     10.5 |        oz |     309 |        181 |    1.00 |         181 |
+| Soap                     |      2.0 |       tbs |      30 |         17 |    1.01 |          17 |
+| Fractionated Coconut Oil |      2.2 |       tsp |      11 |          6 |    0.96 |           6 |
+| Glycerin                 |      1.0 |       tsp |       5 |          3 |    1.25 |           4 |
 | **Total**                | **12.0** |    **oz** | **355** |    **207** |         |     **208** |
-| *Units*                  |          |           |    *ml* |       *ml* |  *g/ml* |         *g* |
+| _Units_                  |          |           |    _ml_ |       _ml_ |  _g/ml_ |         _g_ |
 
 Table: Hand Soap Ingredients Scaled for 7 ounces (207 ml)
+
 <!-- markdownlint-enable MD013 -->
 
 Thirty (30) drops of essential oil, per 7 ounces of soap, works nicely for
